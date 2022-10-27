@@ -7,3 +7,5 @@ Content:
 - Exploratory Data Analysis
 - Joining DataFrames
 - Data Viz
+
+You can see the notebook <a href="https://github.com/JulioHenri/Scraping-tables-python/blob/master/Ney_X_Mpabbe_comparison.ipynb"> here

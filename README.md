@@ -1,4 +1,4 @@
-# Web Scraping with Python
+# Web Scraping and analysis
 
 Content:
 - Libs: BeautifulSoup, Urlopen, Requests, Pandas and Seaborn
